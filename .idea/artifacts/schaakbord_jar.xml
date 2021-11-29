@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="schaakbord:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/schaakbord_jar</output-path>
+    <root id="archive" name="schaakbord.jar">
+      <element id="module-output" name="schaakbord" />
+    </root>
+  </artifact>
+</component>
